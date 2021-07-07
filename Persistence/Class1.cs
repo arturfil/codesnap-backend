@@ -1,8 +1,7 @@
 ﻿using System;
 
-namespace Persistence
-{
-    public class Class1
-    {
-    }
+namespace Persistence {
+  public class Class1 {
+
+  }
 }
